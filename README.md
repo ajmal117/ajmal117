@@ -70,7 +70,9 @@
 <br/>
 
 <div align="center">
-<a href='https://e-book-knng.vercel.app' target='_blank'>See my latest website</a>
+<a href='https://e-book-knng.vercel.app' target='_blank'>
+<img src="https://img.shields.io/badge/website-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+</a>
 </div>
 
 <br/>
