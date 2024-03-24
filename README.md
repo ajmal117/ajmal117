@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **NextJs, Machine learning , NLP**
 
-💬 Ask me about **Node.js, Javscript, React ... or related to development [here](https://github.com/ajmal117/ajmal117/issues)**
+💬 Ask me about **Javscript, React.js, Node.js ... or related to development [here](https://github.com/ajmal117/ajmal117/issues)**
 
 ⚡ Reach me out **Click on the Link**
 
