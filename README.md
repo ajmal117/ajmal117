@@ -12,7 +12,7 @@
  
  <!-- 🔭 I’m currently working on **a marketplace** -->
  
- 🌱 I’m currently learning **Python, Machine learning , NLP**
+ 🌱 I’m currently involve in **Python, Machine learning , NLP**
 
 💬 Ask me about **Python , ML,NLP , Javscript, React.js, Node.js ... or related to development [here](https://github.com/ajmal117/ajmal117/issues)**
 
