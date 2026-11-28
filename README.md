@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ajmal+Ali!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from New Delhi (India) </h3>
+<h3 align="center">A passionate Data scientist from New Delhi (India) </h3>
 
 <br/>
 
@@ -12,9 +12,9 @@
  
  <!-- 🔭 I’m currently working on **a marketplace** -->
  
- 🌱 I’m currently learning **NextJs, Machine learning , NLP**
+ 🌱 I’m currently learning **Python, Machine learning , NLP**
 
-💬 Ask me about **Javscript, React.js, Node.js ... or related to development [here](https://github.com/ajmal117/ajmal117/issues)**
+💬 Ask me about **Python , ML,NLP , Javscript, React.js, Node.js ... or related to development [here](https://github.com/ajmal117/ajmal117/issues)**
 
 ⚡ Reach me out **Click on the Link**
 
